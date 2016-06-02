@@ -13,6 +13,11 @@
 		2AF7D3091CFFFDDC002D56C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AF7D3071CFFFDDC002D56C2 /* Main.storyboard */; };
 		2AF7D30B1CFFFDDC002D56C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AF7D30A1CFFFDDC002D56C2 /* Assets.xcassets */; };
 		2AF7D30E1CFFFDDC002D56C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AF7D30C1CFFFDDC002D56C2 /* LaunchScreen.storyboard */; };
+		2AF7D31A1CFFFF72002D56C2 /* BasicGraphView_1.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7D3191CFFFF72002D56C2 /* BasicGraphView_1.m */; };
+		2AF7D31D1D00052B002D56C2 /* BasicGraphView_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7D31C1D00052B002D56C2 /* BasicGraphView_2.m */; };
+		2AF7D3201D0007F6002D56C2 /* BasicGraphView_3.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7D31F1D0007F6002D56C2 /* BasicGraphView_3.m */; };
+		2AF7D3221D000E96002D56C2 /* xx.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AF7D3211D000E96002D56C2 /* xx.png */; };
+		2AF7D3251D00105B002D56C2 /* BasicGraphView_4.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF7D3241D00105B002D56C2 /* BasicGraphView_4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +31,15 @@
 		2AF7D30A1CFFFDDC002D56C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AF7D30D1CFFFDDC002D56C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AF7D30F1CFFFDDC002D56C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AF7D3181CFFFF72002D56C2 /* BasicGraphView_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicGraphView_1.h; sourceTree = "<group>"; };
+		2AF7D3191CFFFF72002D56C2 /* BasicGraphView_1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicGraphView_1.m; sourceTree = "<group>"; };
+		2AF7D31B1D00052B002D56C2 /* BasicGraphView_2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicGraphView_2.h; sourceTree = "<group>"; };
+		2AF7D31C1D00052B002D56C2 /* BasicGraphView_2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicGraphView_2.m; sourceTree = "<group>"; };
+		2AF7D31E1D0007F6002D56C2 /* BasicGraphView_3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicGraphView_3.h; sourceTree = "<group>"; };
+		2AF7D31F1D0007F6002D56C2 /* BasicGraphView_3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicGraphView_3.m; sourceTree = "<group>"; };
+		2AF7D3211D000E96002D56C2 /* xx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xx.png; sourceTree = "<group>"; };
+		2AF7D3231D00105B002D56C2 /* BasicGraphView_4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicGraphView_4.h; sourceTree = "<group>"; };
+		2AF7D3241D00105B002D56C2 /* BasicGraphView_4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicGraphView_4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,15 @@
 				2AF7D3041CFFFDDC002D56C2 /* ViewController.h */,
 				2AF7D3051CFFFDDC002D56C2 /* ViewController.m */,
 				2AF7D3071CFFFDDC002D56C2 /* Main.storyboard */,
+				2AF7D3181CFFFF72002D56C2 /* BasicGraphView_1.h */,
+				2AF7D3191CFFFF72002D56C2 /* BasicGraphView_1.m */,
+				2AF7D31B1D00052B002D56C2 /* BasicGraphView_2.h */,
+				2AF7D31C1D00052B002D56C2 /* BasicGraphView_2.m */,
+				2AF7D31E1D0007F6002D56C2 /* BasicGraphView_3.h */,
+				2AF7D31F1D0007F6002D56C2 /* BasicGraphView_3.m */,
+				2AF7D3231D00105B002D56C2 /* BasicGraphView_4.h */,
+				2AF7D3241D00105B002D56C2 /* BasicGraphView_4.m */,
+				2AF7D3211D000E96002D56C2 /* xx.png */,
 				2AF7D30A1CFFFDDC002D56C2 /* Assets.xcassets */,
 				2AF7D30C1CFFFDDC002D56C2 /* LaunchScreen.storyboard */,
 				2AF7D30F1CFFFDDC002D56C2 /* Info.plist */,
@@ -137,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AF7D30E1CFFFDDC002D56C2 /* LaunchScreen.storyboard in Resources */,
+				2AF7D3221D000E96002D56C2 /* xx.png in Resources */,
 				2AF7D30B1CFFFDDC002D56C2 /* Assets.xcassets in Resources */,
 				2AF7D3091CFFFDDC002D56C2 /* Main.storyboard in Resources */,
 			);
@@ -149,9 +173,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AF7D3201D0007F6002D56C2 /* BasicGraphView_3.m in Sources */,
+				2AF7D31A1CFFFF72002D56C2 /* BasicGraphView_1.m in Sources */,
 				2AF7D3061CFFFDDC002D56C2 /* ViewController.m in Sources */,
 				2AF7D3031CFFFDDC002D56C2 /* AppDelegate.m in Sources */,
+				2AF7D31D1D00052B002D56C2 /* BasicGraphView_2.m in Sources */,
 				2AF7D3001CFFFDDC002D56C2 /* main.m in Sources */,
+				2AF7D3251D00105B002D56C2 /* BasicGraphView_4.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +294,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Quartz2DDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = www.lj.com.Quartz2DDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,6 +306,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Quartz2DDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = www.lj.com.Quartz2DDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +332,7 @@
 				2AF7D3141CFFFDDC002D56C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
